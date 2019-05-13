@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/heelloo/static/css/main.a22b5008.chunk.css",
+    "main.css": "/heelloo/static/css/main.94813b4a.chunk.css",
     "main.js": "/heelloo/static/js/main.c3ec225b.chunk.js",
     "main.js.map": "/heelloo/static/js/main.c3ec225b.chunk.js.map",
     "runtime~main.js": "/heelloo/static/js/runtime~main.e2609e74.js",
@@ -8,8 +8,8 @@
     "static/js/2.dea47849.chunk.js": "/heelloo/static/js/2.dea47849.chunk.js",
     "static/js/2.dea47849.chunk.js.map": "/heelloo/static/js/2.dea47849.chunk.js.map",
     "index.html": "/heelloo/index.html",
-    "precache-manifest.4c0d872e4346572a5df3bf25d9200fd5.js": "/heelloo/precache-manifest.4c0d872e4346572a5df3bf25d9200fd5.js",
+    "precache-manifest.be01109e6964f3051bf85337b1378a88.js": "/heelloo/precache-manifest.be01109e6964f3051bf85337b1378a88.js",
     "service-worker.js": "/heelloo/service-worker.js",
-    "static/css/main.a22b5008.chunk.css.map": "/heelloo/static/css/main.a22b5008.chunk.css.map"
+    "static/css/main.94813b4a.chunk.css.map": "/heelloo/static/css/main.94813b4a.chunk.css.map"
   }
 }
