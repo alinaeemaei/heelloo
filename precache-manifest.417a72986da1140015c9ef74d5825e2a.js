@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "733489a62be693654c38bcabb197ea4c",
+    "revision": "19e1a5bd0f0af7491095db006bc8b951",
     "url": "/heelloo/index.html"
   },
   {
-    "revision": "4b25dbe115f56beefd69",
-    "url": "/heelloo/static/css/main.94813b4a.chunk.css"
+    "revision": "597447d08f93b1926ba9",
+    "url": "/heelloo/static/css/main.6f29c6be.chunk.css"
   },
   {
     "revision": "e72358ea011dee629cdd",
     "url": "/heelloo/static/js/2.dea47849.chunk.js"
   },
   {
-    "revision": "4b25dbe115f56beefd69",
+    "revision": "597447d08f93b1926ba9",
     "url": "/heelloo/static/js/main.c3ec225b.chunk.js"
   },
   {
