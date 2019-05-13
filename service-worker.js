@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/heelloo/precache-manifest.1a5af67f7fa6a1ff4189148717a87eda.js"
+  "/heelloo/precache-manifest.d32cd811b291b0a7fca515e8322aeb45.js"
 );
 
 self.addEventListener('message', (event) => {
